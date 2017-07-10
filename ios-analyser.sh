@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Script:    ios-analyser.sh
-## Author:    Aleksander Østerud
+## Author:    aleksost
 ## Purpose:   Gathers information from various sources on an acquired iDevice and presents it in a web report
 ##
 ## Usage:
